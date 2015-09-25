@@ -6,8 +6,8 @@ Python Library for Data Exploration
 
 ### Overview
 
-1. DataFrame and Series
-2.
+1. [DataFrame and Series](Pandas I - Series and DataFrames.ipynb)
+2. [Working with DataFrames](Pandas II - Working with DataFrames)
 
 ### Summary
 
