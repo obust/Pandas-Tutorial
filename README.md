@@ -1,2 +1,2 @@
 # Pandas
-An overview of Pandas - Data Exploration Analysis
+An overview of Pandas - Python Library for Data Exploration
